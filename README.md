@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Olga 
 
-- 🌱 I’m currently learning JS
+
+Actually I'm a Student at OpenClassRooms
+
+- 🌱 I’m currently learning JS 
 <!--
 **olgalescuyer/olgalescuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
