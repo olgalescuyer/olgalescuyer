@@ -1,12 +1,12 @@
 ### Hi there 👋 *I'm Olga* 
 
-----------------------
+------------
 
 ### Actually I'm a Student at OpenClassRooms
 
 - 🌱 I’m currently learning JS 
 
-#### Languages and Tools
+### Languages and Tools
 * VSC
 * html
 * CSS
