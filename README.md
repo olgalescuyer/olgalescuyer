@@ -1,9 +1,17 @@
-### Hi there 👋 I'm Olga 
+### Hi there 👋 *I'm Olga* 
 
+----------------------
 
-Actually I'm a Student at OpenClassRooms
+### Actually I'm a Student at OpenClassRooms
 
 - 🌱 I’m currently learning JS 
+
+#### Languages and Tools
+* VSC
+* html
+* CSS
+* SASS
+
 <!--
 **olgalescuyer/olgalescuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
