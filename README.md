@@ -12,6 +12,12 @@
 * CSS
 * SASS
 
+---
+
+### You can watching all my progress here
+
+
+
 <!--
 **olgalescuyer/olgalescuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
