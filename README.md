@@ -51,8 +51,6 @@
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF.svg?style=for-the-badge&logo=prezi&logoColor=white)
 
-https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
-
 <h2 align="left">📈 GitHub Stats</h2> 
  
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=olgalescuyer&theme=blue-green)](https://github.com/olgalescuyer)
