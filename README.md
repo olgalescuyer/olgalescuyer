@@ -1,5 +1,5 @@
-![github_banner](https://user-images.githubusercontent.com/84182327/216758930-1e7d8395-cc09-486a-b6b4-d6ac2252a447.png)
-                                                                                                                               
+  ![banner_github](https://user-images.githubusercontent.com/84182327/216778146-29e42021-ba87-400a-9023-8229fbb03514.png)
+                                                                                                  
 <h4 align="center">Hi there, I'm Olga 👋</h4>
 
 <h2 align="center">A passionate web developer from France 💻 </h2>
@@ -46,8 +46,12 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![gimp](https://img.shields.io/badge/gimp-5C5543.svg?style=for-the-badge&logo=gimp&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF.svg?style=for-the-badge&logo=prezi&logoColor=white)
+
+https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white
 
 <h2 align="left">📈 GitHub Stats</h2> 
  
