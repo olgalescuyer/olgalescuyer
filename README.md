@@ -53,7 +53,7 @@
 
 <h2 align="left">📝 Latest Projects</h2> 
 
-* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/unicorn-grad.png" alt="Olga Lescuyer | Portfolio site" height="30" width="30" />  https://olga-lescuyer.fr/</a>
+* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/unicorn-grad.png" alt="Olga Lescuyer | Portfolio site" height="22" width="22" />  https://olga-lescuyer.fr/</a>
 
  
 
