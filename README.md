@@ -15,6 +15,7 @@
 <h2 align="left">🌱 I'm currently learning</h2>
 
 * Next js
+* UX UI design 
  
 <h2 align="left">💼 Technical Skills</h2> 
 
