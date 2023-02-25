@@ -16,6 +16,7 @@
 
 * Next js
 * UX UI design 
+* Cloudinary
  
 <h2 align="left">💼 Technical Skills</h2> 
 
