@@ -11,10 +11,10 @@
 <h2 align="left">🔭 I'm currently working on </h2>
 
 * Welygo project 
+* AINTERIORS design site
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
-* Next js
 * UX UI design 
 * Cloudinary
  
