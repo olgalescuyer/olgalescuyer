@@ -10,13 +10,13 @@
 
 <h2 align="left">🔭 I'm currently working on </h2>
 
-* Welygo project 
 * AINTERIORS design site
+* ChatGPT bot 
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
-* UX UI design 
-* Cloudinary
+* UX UI design #VA school
+* Motion libraries : gsap, Motion Framer
  
 <h2 align="left">💼 Technical Skills</h2> 
 
