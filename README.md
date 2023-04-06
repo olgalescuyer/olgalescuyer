@@ -56,6 +56,8 @@
 <h2 align="left">📝 Latest Projects</h2> 
 
 * My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/unicorn-grad.png" alt="Olga Lescuyer | Portfolio site" height="22" width="22" />  https://olga-lescuyer.fr/</a>
+* Welygo project :<a href="https://www.welygo.fr/" target="blank"> https://www.welygo.fr/</a>
+* DesignGPT chatbot : <a href="https://github.com/olgalescuyer/designgpt-bot" target="blank"> https://github.com/olgalescuyer/designgpt-bot</a>
 
  
 
