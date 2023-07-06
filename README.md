@@ -60,14 +60,14 @@
 * DesignGPT chatbot : <a href="https://github.com/olgalescuyer/designgpt-bot" target="blank"> https://github.com/olgalescuyer/designgpt-bot</a>
 
  
-
-<h2 align="left">📈 GitHub Stats</h2> 
+![unicorn-happy](https://user-images.githubusercontent.com/84182327/216812636-2ac14a25-f4a3-4f0b-b4a2-4d5fe431acc0.gif)
+<!-- <h2 align="left">📈 GitHub Stats</h2> 
  
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=olgalescuyer&theme=blue-green)](https://github.com/olgalescuyer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgalescuyer&layout=compact&theme=blue-green)](https://github.com/olgalescuyer)
                            
-![unicorn-happy](https://user-images.githubusercontent.com/84182327/216812636-2ac14a25-f4a3-4f0b-b4a2-4d5fe431acc0.gif)
+
  
 
 <!-- 
