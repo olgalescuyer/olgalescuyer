@@ -15,7 +15,6 @@
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
-* UX UI design #VA school
 * Motion libraries : gsap, Motion Framer
  
 <h2 align="left">💼 Technical Skills</h2> 
@@ -55,10 +54,8 @@
 
 <h2 align="left">📝 Latest Projects</h2> 
 
-* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/unicorn-grad.png" alt="Olga Lescuyer | Portfolio site" height="22" width="22" />  https://olga-lescuyer.fr/</a>
-* Welygo project :<a href="https://www.welygo.fr/" target="blank"> https://www.welygo.fr/</a>
-* DesignGPT chatbot : <a href="https://github.com/olgalescuyer/designgpt-bot" target="blank"> https://github.com/olgalescuyer/designgpt-bot</a>
-
+* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> https://olga-lescuyer.fr/</a>
+* Yana Interiors : <a href="https://yana-interiors.vercel.app/" target="blank"> https://olga-lescuyer.fr/</a>
  
 ![unicorn-happy](https://user-images.githubusercontent.com/84182327/216812636-2ac14a25-f4a3-4f0b-b4a2-4d5fe431acc0.gif)
 <!-- <h2 align="left">📈 GitHub Stats</h2> 
