@@ -10,7 +10,7 @@
 
 <h2 align="left">🔭 I'm currently working on </h2>
 
-* AINTERIORS design site
+* AINTERIORS 
 * ChatGPT bot 
 
 <h2 align="left">🌱 I'm currently learning</h2>
@@ -54,8 +54,9 @@
 
 <h2 align="left">📝 Latest Projects</h2> 
 
-* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> https://olga-lescuyer.fr/</a>
-* Yana Interiors : <a href="https://yana-interiors.vercel.app/" target="blank"> https://olga-lescuyer.fr/</a>
+
+* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/icon1.png" alt="icon blob" height="30" width="30" /> https://olga-lescuyer.fr/</a>
+* <a href="https://yana-interiors.vercel.app/" target="blank">Yana Interiors</a>
  
 ![unicorn-happy](https://user-images.githubusercontent.com/84182327/216812636-2ac14a25-f4a3-4f0b-b4a2-4d5fe431acc0.gif)
 <!-- <h2 align="left">📈 GitHub Stats</h2> 
