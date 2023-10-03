@@ -2,7 +2,7 @@
                                                                                                   
 <h4 align="center">Hi there, I'm Olga 👋</h4>
 
-<h2 align="center">A passionate web developer from France 💻 </h2>
+<h2 align="center">A passionate web developer from France 💻</h2>
 
 *<p align="center">Coding let me create things. I love the process of developing creative websites. </p>*
 
@@ -10,11 +10,12 @@
 
 <h2 align="left">🔭 I'm currently working on </h2>
 
-* Welygo project 
+* AINTERIORS design site
+* ChatGPT bot 
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
-* Next js
+* Motion libraries : gsap, Motion Framer
  
 <h2 align="left">💼 Technical Skills</h2> 
 
@@ -51,13 +52,20 @@
 ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF.svg?style=for-the-badge&logo=prezi&logoColor=white)
 
-<h2 align="left">📈 GitHub Stats</h2> 
+<h2 align="left">📝 Latest Projects</h2> 
+
+* My Portfolio site : <a href="https://olga-lescuyer.fr/" target="blank"> https://olga-lescuyer.fr/</a>
+* Yana Interiors : <a href="https://yana-interiors.vercel.app/" target="blank"> https://olga-lescuyer.fr/</a>
+ 
+![unicorn-happy](https://user-images.githubusercontent.com/84182327/216812636-2ac14a25-f4a3-4f0b-b4a2-4d5fe431acc0.gif)
+<!-- <h2 align="left">📈 GitHub Stats</h2> 
  
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=olgalescuyer&theme=blue-green)](https://github.com/olgalescuyer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgalescuyer&layout=compact&theme=blue-green)](https://github.com/olgalescuyer)
                            
-                
+
+ 
 
 <!-- 
 **olgalescuyer/olgalescuyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
