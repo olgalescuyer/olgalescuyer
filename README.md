@@ -11,11 +11,12 @@
 <h2 align="left">🔭 I'm currently working on </h2>
 
 * AINTERIORS 
-* ChatGPT bot 
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
 * Motion libraries : gsap, Motion Framer
+* Unit Tests : React Testing Library, Jest
+* Headless CMS : Sanity, Strapi, WordPress
  
 <h2 align="left">💼 Technical Skills</h2> 
 
