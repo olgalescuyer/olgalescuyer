@@ -1,5 +1,8 @@
-  ![banner_github](https://user-images.githubusercontent.com/84182327/216778146-29e42021-ba87-400a-9023-8229fbb03514.png)
-                                                                                                  
+![banner-linkedin](https://github.com/olgalescuyer/olgalescuyer/assets/84182327/1c2f87d3-a812-48bc-9210-da0cb8775b37)
+
+  
+                                                                         
+                         
 <h4 align="center">Hi there, I'm Olga 👋</h4>
 
 <h2 align="center">A passionate web developer from France 💻</h2>
