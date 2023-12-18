@@ -3,23 +3,27 @@
   
                                                                          
                          
-<h4 align="center">Hi there, I'm Olga 👋</h4>
+<h4 align="left">Hi there, I'm Olga 👋</h4>
 
-<h2 align="center">A passionate web developer from France 💻</h2>
+<h2 align="left">React Next JS Developer with Design Skills from France 💻</h2>
 
-*<p align="center">Coding let me create things. I love the process of developing creative websites. </p>*
+<p align="left">I craft your custom web project with careful attention to detail and expertise.</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/olga-lescuyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/linkedin.png" alt="Olga Lescuyer | LinkedIn" height="30" width="30" /></a>  <a href="https://instagram.com/ol.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ol.code" height="30" width="40" /></a></p> 
+<p align="left">About Development:<br> I use Sanity, Vercel & Next - the holy trinity of modern web development.</p>
+<p align="left">About Design:<br> Form & Typography are significant components of my design approach. I spend a lot of time learning about form, hierarchy, and how they impact the overall aesthetic.</p>
+
+<h2 align="left">Get in Touch</h2>
+
+<p align="left"><a href="https://www.linkedin.com/in/olga-lescuyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/olgalescuyer/olgalescuyer/main/images/linkedin.png" alt="Olga Lescuyer | LinkedIn" height="30" width="30" /></a>  </p> 
 
 <h2 align="left">🔭 I'm currently working on </h2>
 
-* AINTERIORS 
+* AINTERIORS
+* Cerdon Vallée de l'Ain 
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
-* Motion libraries : gsap, Motion Framer
-* Unit Tests : React Testing Library, Jest
-* Headless CMS : Sanity, Strapi, WordPress
+* TS
  
 <h2 align="left">💼 Technical Skills</h2> 
 
