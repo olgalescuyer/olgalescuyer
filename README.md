@@ -18,12 +18,13 @@
 
 <h2 align="left">🔭 I'm currently working on </h2>
 
-* AINTERIORS
+* BROSS MA BETE
 * Cerdon Vallée de l'Ain 
 
 <h2 align="left">🌱 I'm currently learning</h2>
 
 * TS
+* TDD
  
 <h2 align="left">💼 Technical Skills</h2> 
 
