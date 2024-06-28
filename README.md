@@ -18,7 +18,7 @@
 
 <h2 align="left">🔭 I'm currently working on </h2>
 
-* BROSS MA BETE
+* BROSSE MA BETE
 * Cerdon Vallée de l'Ain 
 
 <h2 align="left">🌱 I'm currently learning</h2>
