@@ -1,8 +1,4 @@
-![banner-linkedin](https://github.com/olgalescuyer/olgalescuyer/assets/84182327/1c2f87d3-a812-48bc-9210-da0cb8775b37)
-
-  
-                                                                         
-                         
+                                                                     
 <h4 align="left">Hi there, I'm Olga 👋</h4>
 
 <h2 align="left">React Next JS Developer with Design Skills from France 💻</h2>
